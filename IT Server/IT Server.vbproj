@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A06FFBF9-57D0-4A5F-B4FF-E461AB95D90C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IT_Server.My.MyApplication</StartupObject>
+    <RootNamespace>IT_Server</RootNamespace>
+    <AssemblyName>IT Server</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IT Server.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IT Server.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Age of Ultron 6087.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agents of Smash 17896.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anna and Elsa 17760.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avengers Unite 17664.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baby Blocks 16301.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Batter Up Baseball 12659.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beach Party 17251.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Best Friends 17153.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday Celebration 15059.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blu and Family 17879.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Baby Booties 13412.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brave Merida and Angus 15394.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cars 2 World Grand Prix 14452.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Championship Belt 6353.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Charm Caucasian 17859.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Charm Hispanic 18103.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cinderella Transfrom 18699.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coal Car 14142.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dinosaur Pals 11825.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doc and Lambie 17801.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drift 6088.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Extra Fruit Cake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorite High Heels 17158.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Felling Boovie 18476.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frame and Skullette 17042.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Garden Royalty 14114.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gil, Molly and Gang 17791.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Happily Ever After 18035.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horses 16449.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jungle 18078.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jungle Buddies 12377.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Just Yelp for Help 6089.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Krabby Patty 6086.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Light Up Eyes 18029.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lion King Baby Simba 17759.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Luau Party 15015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Milano 18243.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minnie Hat Box 16754.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nemo and Squirt 16135.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Tail for Eeyore 17088.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pink Baby Booties 13405.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pirates Treasure Hunt 14834.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Planes 2 Air Attack Team 18255.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Queen Crown and Scepter 14213.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rapunzel and Castle 17902.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red Zord 5002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regural Fruit Cake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Safari Babies 34514.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soccer Kick Off Boys 14236.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sofia and Castle 17665.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Special Delibery Stork 10218.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sponge Bob 14917.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Students Micke and Sulley 17312.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The Little Mermaid 17047.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The Princes and The Frog 17223.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tinker Bell and Periwnkle 16927.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tinker Bell in Flower 13162.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Touchdown Football 12660.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turtles to Action 17051.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Web Spinner 17141.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Winnie the Pooh Welcome Baby 17183.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woody, Buzz and Aliens 18083.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yo Ho Way to Go 15952.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ranchologo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

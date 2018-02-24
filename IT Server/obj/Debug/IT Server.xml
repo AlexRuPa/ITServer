@@ -1,0 +1,511 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IT Server
+</name>
+</assembly>
+<members>
+<member name="T:IT_Server.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._28">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._31">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._33">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Age_of_Ultron_6087">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Agents_of_Smash_17896">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Anna_and_Elsa_17760">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Avengers_Unite_17664">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Baby_Blocks_16301">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Batter_Up_Baseball_12659">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Beach_Party_17251">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Best_Friends_17153">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Birthday_Celebration_15059">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Blu_and_Family_17879">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Blue_Baby_Booties_13412">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Brave_Merida_and_Angus_15394">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Cars_2_World_Grand_Prix_14452">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Championship_Belt_6353">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Charm_Caucasian_17859">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Charm_Hispanic_18103">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Cinderella_Transfrom_18699">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Coal_Car_14142">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Dinosaur_Pals_11825">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Doc_and_Lambie_17801">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Drift_6088">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Extra_Fruit_Cake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Favorite_High_Heels_17158">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Felling_Boovie_18476">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Frame_and_Skullette_17042">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Garden_Royalty_14114">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Gil__Molly_and_Gang_17791">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Happily_Ever_After_18035">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Horses_16449">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Jungle_18078">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Jungle_Buddies_12377">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Just_Yelp_for_Help_6089">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Krabby_Patty_6086">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Light_Up_Eyes_18029">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Lion_King_Baby_Simba_17759">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Luau_Party_15015">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Milano_18243">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Minnie_Hat_Box_16754">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Nemo_and_Squirt_16135">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.New_Tail_for_Eeyore_17088">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Pink_Baby_Booties_13405">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Pirates_Treasure_Hunt_14834">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Planes_2_Air_Attack_Team_18255">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Queen_Crown_and_Scepter_14213">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Ranchologo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Rapunzel_and_Castle_17902">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Red_Zord_5002">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Regural_Fruit_Cake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Safari_Babies_34514">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Soccer_Kick_Off_Boys_14236">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Sofia_and_Castle_17665">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Special_Delibery_Stork_10218">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Sponge_Bob_14917">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Students_Micke_and_Sulley_17312">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.The_Little_Mermaid_17047">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.The_Princes_and_The_Frog_17223">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Tinker_Bell_and_Periwnkle_16927">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Tinker_Bell_in_Flower_13162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Touchdown_Football_12660">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Turtles_to_Action_17051">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Web_Spinner_17141">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Winnie_the_Pooh_Welcome_Baby_17183">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Woody__Buzz_and_Aliens_18083">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IT_Server.My.Resources.Resources.Yo_Ho_Way_to_Go_15952">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,49 @@
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\bin\Debug\IT Server.exe.config
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\bin\Debug\IT Server.exe
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\bin\Debug\IT Server.pdb
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\bin\Debug\IT Server.xml
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT Server.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT_Server.Form1.resources
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT_Server.Resources.resources
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT Server.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT Server.exe
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT Server.xml
+C:\Users\Alejandro\Desktop\IT Server\IT Server\IT Server\obj\Debug\IT Server.pdb
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\bin\Debug\IT Server.exe.config
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT Server.exe
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT Server.xml
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT Server.pdb
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\bin\Debug\IT Server.exe
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\bin\Debug\IT Server.pdb
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\bin\Debug\IT Server.xml
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT Server.vbprojResolveAssemblyReference.cache
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT_Server.Form1.resources
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT_Server.Resources.resources
+C:\Users\alejandror\Desktop\IT Server\Respaldo 2\IT Server\IT Server\obj\Debug\IT Server.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.exe.config
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.exe
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.pdb
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.xml
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT_Server.Form1.resources
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT_Server.Resources.resources
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.exe
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.xml
+C:\Users\Alejandro\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.pdb
+C:\Users\alejandror\Desktop\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.exe.config
+C:\Users\alejandror\Desktop\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.exe
+C:\Users\alejandror\Desktop\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.xml
+C:\Users\alejandror\Desktop\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.pdb
+D:\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.exe.config
+D:\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.exe
+D:\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.pdb
+D:\OneDrive\IT Server no DB\IT Server\IT Server\bin\Debug\IT Server.xml
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.vbprojResolveAssemblyReference.cache
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT_Server.Form1.resources
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT_Server.Resources.resources
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.vbproj.GenerateResource.Cache
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.vbproj.CoreCompileInputs.cache
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.exe
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.xml
+D:\OneDrive\IT Server no DB\IT Server\IT Server\obj\Debug\IT Server.pdb
